@@ -1,0 +1,7 @@
+<suite name="Trulia Home Suite" verbose="1">
+   <test name="UITesting">
+        <classes>
+            <class name="com.trulia.test.HomeTest"/>
+        </classes>
+    </test>
+</suite>

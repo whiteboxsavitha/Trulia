@@ -1,0 +1,8 @@
+<suite name="Trulia Automation" verbose="1">
+    <suite-files>
+        <suite-file path="home-suite.xml"/>
+    <!--    <suite-file path="login-suite.xml"/>
+
+     <suite-file path="buy-suite.xml"/> -->
+    </suite-files>
+</suite>

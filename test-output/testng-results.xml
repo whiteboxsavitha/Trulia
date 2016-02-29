@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12822" started-at="2016-02-21T03:33:53Z" finished-at="2016-02-21T03:34:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12822" started-at="2016-02-21T03:33:53Z" finished-at="2016-02-21T03:34:06Z">
+      <class name="capturescreenshoot.capturescreenshotTest">
+        <test-method status="PASS" signature="checkifloggedin()[pri:0, instance:capturescreenshoot.capturescreenshotTest@29b15447]" name="checkifloggedin" duration-ms="12806" started-at="2016-02-20T19:33:53Z" finished-at="2016-02-20T19:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkifloggedin -->
+      </class> <!-- capturescreenshoot.capturescreenshotTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

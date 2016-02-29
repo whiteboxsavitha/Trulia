@@ -1,0 +1,9 @@
+<suite name="BuySuite" verbose="1">
+    <test name="BuyTest">
+        <parameter name="seesionCookie" value="PHPSESSID"></parameter>
+        <parameter name="sheetName" value="login"></parameter>
+        <classes>
+            <class name="com.trulia.test.BuyTest"/>
+        </classes>
+    </test>
+</suite>
